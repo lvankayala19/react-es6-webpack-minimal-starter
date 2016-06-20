@@ -4,6 +4,8 @@
   "description": "A minimal React/ES6/Webpack starter template using Webpack & Babel ",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
+    "dev-server": "webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Peter Munro <contact@petermunro.org>",
